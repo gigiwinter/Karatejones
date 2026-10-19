@@ -1,0 +1,1 @@
+Upload BOTH index.html and Executive Summary.pdf to the root of your GitHub Pages repository. Do not upload only the HTML file: the PDF link needs the PDF alongside it. The website also links to the Dify chatbot and workflow.
